@@ -5,7 +5,7 @@ subheader: "Lorem ipsum dolor sit amet consectetur."
 services: [
   {
     iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
+    header: "Item-1",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {

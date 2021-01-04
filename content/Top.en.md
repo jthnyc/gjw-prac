@@ -1,5 +1,5 @@
 ---
-header: "It's Nice To Meet You"
+header: "Gabe & Joanna"
 subheader: "Welcome To Our Studio!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
