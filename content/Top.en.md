@@ -1,7 +1,7 @@
 ---
 header: "Gabe & Joanna"
-subheader: "Welcome To Our Studio!"
+subheader: "Welcome To Our Wedding Site!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchorText: "Scroll Down"
 ---
